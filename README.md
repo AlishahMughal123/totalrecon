@@ -22,6 +22,7 @@ Currently installing:
   15. LinkFinder
   16. MassDNS
   17. EyeWitness
+  18. Assetfinder
 
 Usage:
 ``` console
